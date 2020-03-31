@@ -3,9 +3,8 @@ package view;
 import java.util.Random;
 import java.util.concurrent.Semaphore;
 
-
-import controller.DecolarPistaNorte;
-import controller.DecolarPistaSul;
+import model.DecolarPistaNorte;
+import model.DecolarPistaSul;
 
 public class TesteAeroporto {
 
